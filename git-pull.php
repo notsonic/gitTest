@@ -1,3 +1,4 @@
 <?php
-	`git pull`;
+	$output = `git pull`;
+	echo $output;
 ?>
